@@ -1,0 +1,78 @@
+Test Methods Defined For Forty Thieves:
+Tableau Pile Tests:
+	-Tableau Piles Initially Hold 3 Cards:
+		*testTableauZeroStartsThreeCards()
+		*testTableauOneStartsThreeCards()
+		*testTableauTwoStartsThreeCards()
+		*testTableauThreeStartsThreeCards()
+		*testTableauFiveStartsThreeCards()
+		*testTableauSevenStartsThreeCards()
+		*testTableauElevenStartsThreeCards()
+		*testTableauTwelveStartsThreeCards()
+	-Tableau Piles Correctly Determine Legality of Adding:
+		*testTableauAddIsLegalIdenticalSuitOneRankBelow()
+		*testTableauAddIsNotLegalIdenticalSuitSameRank()
+		*testTableauAddIsNotLegalIdenticalSuitOneRankAbove()
+		*testTableauAddIsNotLegalDifferentSuitOneRankBelow()
+		*testTableauAddIsLegalWhenEmpty()
+	-Tableau Piles Correctly Determine Legality of Removing:
+		*testTableauRemoveIsLegalWhenNotEmpty()
+		*testTableauRemoveIsNotLegalWhenEmpty()
+	-Adding to Tableau Piles Increases The Number of Cards:
+		*testTableauSizeIncreasesWhenCardAdded()
+		*testTableauSizeIncreasesWhenCardAddedToEmpty()
+	-Adding to Tableau Piles Makes New Card The Top Card:
+		*testTableauAddedCardIsOnTop()
+	-Removing From Tableau Piles Decreases The Number of Cards:
+		*testTableauSizeDecreasesWhenCardRemoved()
+	-Removing From Tableau Piles Makes Next Card The Top Card:
+		*testTableauNextCardIsTopWhenCardRemoved()
+Homecell Pile Tests:
+	-Homecell Piles Initially Hold 1 Card:
+		*testHomecellPileOneStartsOneCard()
+		*testHomecellPileTwoStartsOneCard()
+		*testHomecellPileThreeStartsOneCard()
+		*testHomecellPileFiveStartsOneCard()
+		*testHomecellPileSevenStartsOneCard()
+	-Homecell Piles Correctly Determine Legality of Adding:
+		*testHomecellCanAddSameSuitOneRankAbove()
+		*testHomecellCantAddSameSuitSameRank()
+		*testHomecellCantAddSameSuitOneRankBelow()
+		*testHomecellCantAddDifferentSuitOneRankAbove()
+	-Homecell Piles Correctly Determine Legality of Removing:
+		*testHomecellCantRemoveCardWhenNotEmpty()
+		*testHomecellCantRemoveCardWhenEmpty()
+	-Homecell Pile Size Increases When Card Added:
+		*testHomecellSizeIncreasesWhenCardAdded()
+	-Homecell Pile Makes Top Card New Card When Added To:
+		*testHomecellTopCardIsNewlyAddedCard()
+Stock Pile Tests:
+	-Stock Pile Initially Holds 57 Cards:
+		*testStockPileStartsFiftySevenCards()
+	-Stock Pile Correctly Determines Legality of Adding:
+		*testStockPileCantAddCards()
+	-Stock Pile Correctly Determines Legality of Removing:
+		*testStockPileCanRemoveWhenNotEmpty()
+		*testStockPileCantRemoveWhenEmpty()
+	-Stock Pile Makes Next Card Top Card After Removal:
+		*testStockPileRemovalMakesNextCardTopCard()
+	-Stock Pile Size Decreases After Removal:
+		*testStockPileSizeDecreasesWhenCardRemoved()
+Waste Pile Tests:
+	-Waste Pile Initially Holds 0 Cards:
+		*testWastePileStartsZeroCards()
+	-Waste Pile Correctly Determines Legality of Adding:
+		*testWastePileAddIsLegalFromStockPile()
+		*testWastePileAddIsNotLegalFromTableauPile()
+		*testWastePileAddIsNotLegalFromHomecellPile()
+	-Waste Pile Correctly Determines Legality of Removal:
+		*testWastePileRemoveIsLegalWhenNotEmpty()
+		*testWastePileRemoveIsNotLegalWhenEmpty()
+	-Waste Pile Size Increases When Card Added:
+		*testWastePileSizeIncreasesWhenCardAdded()
+	-Waste Pile Added Card Becomes Top Card:
+		*testWastePileAddedCardIsNewTopCard()
+	-Waste Pile Size Decreases When Card Removed:
+		*testWastePileSizeDecreasesWhenCardRemoved()
+	-Waste Pile Next Card Becomes Top Card When Removed From:
+		*testWastePileNextCardIsTopAfterRemoval()

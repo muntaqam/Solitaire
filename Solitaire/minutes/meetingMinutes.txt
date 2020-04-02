@@ -1,0 +1,180 @@
+Meeting Minutes for _add meeting date________:
+
+Meeting Attendance: (list all students who were present) [1 minute]
+	Put an 'M' next to the name of the student taking minutes
+	
+	
+	
+Tasks completed since last meeting [1-2 minutes]
+	* (Replace with tasks that were completed in the last week)
+	  (Some weeks, including the first week your group meets, this will be blank)
+
+Tasks worked upon but not completed since last meeting [2-4 minutes]
+	* (Replace with tasks that are still being worked upon)
+	   - (Also document any significant discussions of ideas or actions to make progress on these item)
+	(Some weeks, including the first week your group meets, this will be blank)
+
+Goals for the next meeting [20+ minutes]
+	* (List tasks that will be worked upon in the coming week)
+	   - (Discuss what each person will do to complete that task)
+
+Schedule for the next week's set of pair programming meetings [3-4 minutes]
+	* (Pair programming sessions should be two hours long (no more, no less))
+	  (Every team member should participate in two sessions each week, with each session including a different team member)
+
+Meeting Minutes for 9/21/2018
+
+Meeting Attendance:
+	Emery M
+	Alan
+	Maurice
+	Maahi
+	
+Tasks Completed:
+
+Tasks Worked on but Not Completed:
+
+Goals for Next Meeting:
+	-Gain knowledge about how to use javadoc
+	-Write out necessary method signatures for assigned classes
+	-Create package structure
+	-Utilize information to begin writing tests
+	
+Pair Programming:
+	-Emery + Maahi Saturday 9/22/2108
+	-Maurice + Alan Saturday 9/22/2018
+	
+	-Alan + Maahi Tuesday 9/25/2108
+	-Maurice + Emery Tuesday 9/25/2018
+	
+Meeting Minutes for 9/24/2018
+
+Meeting Attendance:
+	Emery M
+	Maurice
+	Alan
+	Maahi
+	
+Tasks Completed:
+	-Deck, Card, and DeckTest classes
+	-Wrote down method signatures needed in future classes
+	
+Tasks Worked on but Not Completed:
+	
+Goals for Next Meeting:
+	-Have most code and tests written
+	
+Pair Programming:
+	-Emery + Alan 9/26/2018
+	-Maahi + Maurice 9/26/2018
+	
+	-Emery + Maahi 9/30/2018
+	-Maurice + Alan 9/30/2018
+	
+Meeting Minutes for 10/5/2018
+
+Meeting Attendance:
+	Emery M
+	Alan
+	Maahi
+	Maurice
+
+Tasks Completed:
+	-Phase 1
+	
+Goals for Next Meeting:
+	-Re-familiarize with AWT classes
+	-Get started on GUI classes
+	-Complete main menu
+	
+Pair Programming:
+	-Emery + Maahi: 10/7/2018
+	-Maurice + Alan: 10/7/2018
+	
+	-Emery + Alan: 10/9/2018
+	-Maurice + Maahi: 10/9/2018
+	
+Meeting Minutes for 10/15/2018
+
+Meeting Attendance:
+	Emery M
+	Alan
+	Maahi
+	Maurice
+	
+Tasks Completed:
+	-Created CardSpot custom JFrame 
+	-Created basic setup for Golf, Main Menu, and LS
+	
+Goals for Next Meeting:
+	-Add functionality to Golf
+	-Add functionality to little spider
+	
+Pair Programming:
+	-Emery + Maurice: 10/17/2018
+	-Alan + Maahi: 10/17/2018
+	
+	-Maurice + Alan: 10/20/2018
+	-Emery + Maahi: 10/20/2018
+	
+Meeting Minutes for 10/22/2018
+
+Meeting Attendance:
+	Emery M
+	Alan
+	Maahi
+	Maurice
+	
+Tasks Completed:
+	-Created mouse listeners for golf and little spider
+	
+Goals for Next Meeting:
+	-Complete click implementation
+	-Complete error handling and exception classes
+	
+Pair Programming:
+	-Emery + Alan: 10/24/2018
+	-Maahi + Maurice: 10/24/2018
+	
+	-Emery + Maurice: 10/26/2018
+	-Alan + Maahi: 10/26/2018
+	
+Meeting Minutes for 11/04/2018
+
+Meeting Attendance:
+	Emery M
+	Maahi
+	Maurice
+	
+Tasks Completed:
+
+Goals For Next Meeting:
+	-Have tests done for forty thieves
+	-Have basics of game started
+	
+Pair Programming:
+	-Emery + Maurice: 11/05/2018
+	-Emery + Maahi: 11/05/2018
+	
+	-Maurice + Maahi: 11/07/2018
+	
+Meeting Minutes for 11/13/2018
+
+Meeting Attendance:
+	Emery M
+	Maahi
+	Maurice
+	
+Tasks Completed:
+	-All tests complete
+	-Pile composition set up
+	
+Goals For Next Meeting:
+	-Finish forty thieves functionality
+	-Start GUI
+
+Pair Programming:
+	-Emery + Maurice: 11/14/2018
+	-Emery + Maahi: 11/14/2018
+	
+	-Maurice + Maahi: 11/16/2018
